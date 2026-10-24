@@ -46,6 +46,9 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoziPlus.hu@SD" tvg-logo="https://i.imgur.com/LtCnPFJ.png" group-title="Movies",Mozi+
 http://88.212.15.19/live/mozi_plusz/index.m3u8
 
+#EXTINF:-1 tvg-id="Sonyhitsaction.fr@SD" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony Hits Action
+extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/33b3ce1c-041d-4072-b1f2-abee8b45a606/0.m3u8
+
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Movies",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
