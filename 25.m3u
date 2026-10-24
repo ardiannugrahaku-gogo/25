@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Popular IPTV - CODECS.COM
+#EXTINF:-1 tvg-id="GravitasMovies.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TvN_STORY_logo.png" group-title="Movies",tvN Story
+https://7c3607270136483c8416987495d87958.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/fcdaa591-ca19-4604-b5d8-f49375227fd6/4.m3u8
 
 #EXTINF:-1 tvg-id="GravitasMovies.us@SD" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
@@ -104,10 +106,10 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="local",Metro TV (Indonesia)
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" group-title="Undefined",TVRI World (1080p)
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" group-title="local",TVRI World (1080p)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-id="CNNld.id@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/250px-CNN_Logo_%282014%29.svg.png" group-title="Undefined",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNld.id@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/250px-CNN_Logo_%282014%29.svg.png" group-title="local",CNN Indonesia
 https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w207994076_b192000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTI4MDA1NzMyNTYmd293emF0b2tlbmhhc2g9Y1Bpc0lKd2RQT2VZMVRGaTllSGJIY08xUlJ2VHhWNnJXTGd4cXVKVy1MST0=.m3u8
 
 #EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="local",Jawa Pos TV (720p)
